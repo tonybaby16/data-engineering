@@ -1,1 +1,8 @@
 *.parquet
+*.json
+*.ipynb
+.python-version
+.venv
+*.tfstate
+*.tfstate.backup
+terraform/.terraform/*
